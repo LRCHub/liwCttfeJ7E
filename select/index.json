@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Rock Bottom (feat. DNCE)",
+  "base_artist": "Hailee Steinfeld",
+  "createdAt": "2026-03-22T07:25:05.632842Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Rock Bottom (feat. DNCE)",
+      "artist": "Hailee Steinfeld",
+      "has_synced": true,
+      "path": "select/01_Rock_Bottom_(feat._DNCE)_Hailee_Steinfeld.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Rock Bottom (feat. DNCE)",
+      "artist": "Hailee Steinfeld",
+      "has_synced": true,
+      "path": "select/02_Rock_Bottom_(feat._DNCE)_Hailee_Steinfeld.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Rock Bottom (feat. DNCE)",
+      "artist": "Hailee Steinfeld",
+      "has_synced": true,
+      "path": "select/03_Rock_Bottom_(feat._DNCE)_Hailee_Steinfeld.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Rock Bottom (feat. DNCE)",
+      "artist": "Hailee Steinfeld",
+      "has_synced": true,
+      "path": "select/04_Rock_Bottom_(feat._DNCE)_Hailee_Steinfeld.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Rock Bottom (feat. Bun B)",
+      "artist": "Freddie Gibbs",
+      "has_synced": false,
+      "path": "select/05_Rock_Bottom_(feat._Bun_B)_Freddie_Gibbs.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "rock bottom (feat. nothing,nowhere.)",
+      "artist": "guccihighwaters feat. nothing,nowhere.",
+      "has_synced": false,
+      "path": "select/06_rock_bottom_(feat._nothing,nowhere.)_guccihighwaters_feat._nothing,nowhere..txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Rock Bottom (feat. Eddy Baker)",
+      "artist": "idontknowjeffery",
+      "has_synced": false,
+      "path": "select/07_Rock_Bottom_(feat._Eddy_Baker)_idontknowjeffery.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Rock Bottom (feat. Yxng Bane)",
+      "artist": "M Huncho",
+      "has_synced": true,
+      "path": "select/08_Rock_Bottom_(feat._Yxng_Bane)_M_Huncho.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Rock Bottom (feat. Daniel Novello)",
+      "artist": "Tom The Mail Man",
+      "has_synced": false,
+      "path": "select/09_Rock_Bottom_(feat._Daniel_Novello)_Tom_The_Mail_Man.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Rock Bottom (feat. Wretch 32)",
+      "artist": "Zak Abel feat. Wretch 32",
+      "has_synced": true,
+      "path": "select/10_Rock_Bottom_(feat._Wretch_32)_Zak_Abel_feat._Wretch_32.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Rock Bottom (feat. Wretch 32)",
+      "artist": "Zak Abel",
+      "has_synced": true,
+      "path": "select/11_Rock_Bottom_(feat._Wretch_32)_Zak_Abel.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Rock Bottom feat. Ninet Tayeb",
+      "artist": "Steven Wilson",
+      "has_synced": true,
+      "path": "select/12_Rock_Bottom_feat._Ninet_Tayeb_Steven_Wilson.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Rock Bottom (feat. Bun B & Cubo)",
+      "artist": "Pitbull",
+      "has_synced": false,
+      "path": "select/13_Rock_Bottom_(feat._Bun_B_&_Cubo)_Pitbull.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Rock Bottom (feat. Bun B & Cubo)",
+      "artist": "Pitbull/Bun B/Cubo",
+      "has_synced": false,
+      "path": "select/14_Rock_Bottom_(feat._Bun_B_&_Cubo)_Pitbull_Bun_B_Cubo.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Rock Bottom (feat",
+      "artist": "Hailee Steinfeld",
+      "has_synced": true,
+      "path": "select/15_Rock_Bottom_(feat_Hailee_Steinfeld.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "King of Rock Bottom (Feat. DJ Vajra)",
+      "artist": "Mr J Medeiros",
+      "has_synced": false,
+      "path": "select/16_King_of_Rock_Bottom_(Feat._DJ_Vajra)_Mr_J_Medeiros.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "rock bottom (feat. nothing,nowhere.)",
+      "artist": "guccihighwaters, nothing,nowhere.",
+      "has_synced": true,
+      "path": "select/17_rock_bottom_(feat._nothing,nowhere.)_guccihighwaters,_nothing,nowhere..lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Rock Bottom (feat. Bun B and Cubo)",
+      "artist": "Pitbull",
+      "has_synced": true,
+      "path": "select/18_Rock_Bottom_(feat._Bun_B_and_Cubo)_Pitbull.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Rock Bottom",
+      "artist": "Hailee Steinfeld",
+      "has_synced": false,
+      "path": "select/pl_01_Rock_Bottom_Hailee_Steinfeld.txt"
+    }
+  ]
+}
